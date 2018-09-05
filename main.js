@@ -45,5 +45,5 @@ function fahToCenti(temperature){
 	return ((temperature-32)*(5/9));
 }
 function pouToSto(weight){
-	returm (weight*0.071428571428571);
+	return (weight*0.071428571428571);
 }
